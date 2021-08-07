@@ -1,0 +1,107 @@
+img{
+  float: inherit;
+  text-align:justify;
+  margin-bottom: 2px;
+  margin-top: 12%;
+  margin-left: 14%;
+
+     }
+a:link , a:visited{
+  text-decoration: none;
+  color: #434343;
+     }
+.Itier{
+  float: right;
+  padding-left: 2%;
+  margin-right: 2px;
+  font-size: 15px;
+}
+.gtier{
+  float: right;
+  padding-left: 2%;
+  margin-right: 60px;
+  font-size: 15px;
+}
+.gtier {
+  text-decoration: none;
+}
+.gs{
+  float: inherit;
+  margin-left: 42%;
+  margin-top: 35px;
+
+}
+.luck{
+  margin-top: -20px;
+  margin-left: 52%;
+
+}
+input{
+  border-radius: 100px;
+  width: 40%;
+  padding: 15px 50px;
+  box-sizing: border-box;
+  text-align: left;
+  text-size:12px;
+  border-color:#F2F2F2;
+  outline: none;
+  margin-left: 4%;
+  margin-right: 3%;
+  border-width: thin;
+
+}
+html
+{ overflow-y: scroll;    <!-- so that the page dont shake -->
+}
+
+.ind{
+  margin-top: 23%;
+  padding-left: 1%;
+  padding-top:17px;
+  color: #434343;
+
+}
+.down{
+    background-color:#F2F2F2;
+    margin-right: -2px;
+    margin-left: -7px;
+
+}
+.abt{
+  margin-right: 18px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.adv{
+  margin-right: 18px;
+}
+.bus{
+  margin-right: 18px;
+}
+.hw{
+  margin-right: 18px;
+}
+.priv{
+  float: right;
+  margin-left: 18px;
+}
+.term{
+  float: right;
+  margin-left: 10px;
+}
+.set{
+  float: right;
+  margin-left: 10px;
+}
+#searchin{
+  background-color: #F2F2F2;
+  padding: 12px 25px 12px 25px;
+  margin-left: -5%;
+}
+#feelin{
+  background-color: #F2F2F2;
+  padding: 12px 25px 12px 25px;
+  margin-left: -1%;
+
+}
